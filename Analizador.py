@@ -2,8 +2,6 @@ import re
 from Abstract.Lexema import *
 from Abstract.Abstract import *
 
-
-
 reservadas = {
     'RINICIO': 'Inicio',
     'RENCABEZADO': 'Encabezado',
